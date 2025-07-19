@@ -43,7 +43,9 @@ GitHub · Jira · VS Code
 ---
 
 ### 📊 Contribution Graph
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=KPRAHUL1&theme=github-compact" alt="GitHub Activity Graph" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KPRAHUL1&show_icons=true&count_private=true&include_all_commits=true&theme=radical" />
+</p>
 
 ---
 
