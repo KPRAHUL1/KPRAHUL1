@@ -42,14 +42,9 @@ GitHub · Jira · VS Code
 
 ---
 
-### 📊 Contribution Graph
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=KPRAHUL1&theme=github-dark" />
-
----
-
 ## 📈 GitHub Stats
 
-<p align="center">
+<p >
   <img src="https://github-readme-stats.vercel.app/api?username=KPRAHUL1&show_icons=true&theme=radical" alt="Rahul's GitHub Stats" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=KPRAHUL1&theme=radical" alt="Rahul's GitHub Streak" />
