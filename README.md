@@ -50,8 +50,8 @@ Visitors counter:
 
 **Let’s Connect!**
 📧 Email: kprahul1143@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/rahulk07) | [GitHub](https://github.com/KPRAHUL1)
-[![Gmail](https://img.shields.io/badge/Gmail-kprahul1143@gmail.com-red?style=flat&logo=gmail)](mailto:kprahul1143@gmail.com)
+🔗 [LinkedIn](https://linkedin.com/in/rahulk07) | [GitHub](https://github.com/KPRAHUL1) | 
+[![Gmail](https://img.shields.io/badge/Gmail-kprahul1143@gmail.com-red?style=flat&logo=gmail)](mailto:kprahul1143@gmail.com) | 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/rahulk07)
 
 
