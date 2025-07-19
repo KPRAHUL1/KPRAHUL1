@@ -45,11 +45,7 @@ GitHub · Jira · VS Code
 ## 📈 GitHub Stats
 
 <p >
-  <img src="https://github-readme-stats.vercel.app/api?username=KPRAHUL1&show_icons=true&theme=radical" alt="Rahul's GitHub Stats" />
-  <br/>
   <img src="https://streak-stats.demolab.com?user=KPRAHUL1&theme=radical" alt="Rahul's GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KPRAHUL1&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
