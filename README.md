@@ -4,7 +4,7 @@
 🚀 Passionate about building real-world web apps & dashboards  
 🌍 Based in India | Open to remote/full-time opportunities  
 📬 Reach me: [kprahul1143@gmail.com](mailto:kprahul1143@gmail.com)
-[![Gmail](https://img.shields.io/badge/Gmail-kprahul1143@gmail.com-red?style=flat&logo=gmail)](mailto:kprahul1143@gmail.com) | 
+[![Gmail](https://img.shields.io/badge/Gmail-kprahul1143@gmail.com-red?style=flat&logo=gmail)](mailto:kprahul1143@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/rahulk07)
 
 ---
