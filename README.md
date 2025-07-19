@@ -10,15 +10,13 @@
 **Tech Stack:**
 
 - 💻 Frontend: React.js, Next.js, JavaScript, TailwindCSS, Redux
+- 🔧 Backend: Node.js, Express.js, Prisma
+- 🗃️ Database: PostgreSQL, SQL
+- ⚙️ Tools: GitHub, Jira, VS Code
 - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
-
-- 🔧 Backend: Node.js, Express.js, Prisma
-- 🗃️ Database: PostgreSQL, SQL
-- ⚙️ Tools: GitHub, Jira, VS Code
-  
 
 ---
 
