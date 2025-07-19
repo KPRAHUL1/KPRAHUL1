@@ -43,9 +43,7 @@ GitHub · Jira · VS Code
 ---
 
 ### 📊 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=KPRAHUL1&theme=github-dark" alt="GitHub Contribution Graph" />
-</p>>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=KPRAHUL1&theme=github-dark" />
 
 ---
 
