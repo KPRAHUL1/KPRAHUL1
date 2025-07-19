@@ -7,23 +7,27 @@
 
 ---
 
-### 🛠️ Tech Stack
+**Tech Stack:**
 
-**Frontend:**  
-React.js · Next.js · JavaScript · TailwindCSS · Redux · Bootstrap  
+- 💻 Frontend: React.js, Next.js, JavaScript, TailwindCSS, Redux
+- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
 
-**Backend:**  
-Node.js · Express.js · Prisma · PostgreSQL  
-
-**Tools:**  
-Git · GitHub · Jira · VS Code  
+- 🔧 Backend: Node.js, Express.js, Prisma
+- 🗃️ Database: PostgreSQL, SQL
+- ⚙️ Tools: GitHub, Jira, VS Code
+  
 
 ---
 
-### 🔥 Projects
-- **E-Commerce Platform** – Full-featured web app with cart + Razorpay
-- **IoT Bus Tracker** – Real-time GPS tracking using IoT + maps
-- **Medication Reminder App** – Daily med alert system with clean UI
+**Featured Projects:**
+
+- 🚀 E-Commerce Web App – Secure payment + product listings (React + Node)
+- 🚌 IoT Bus Tracker – Live GPS updates via IoT device (React + Maps API)
+- 💊 Medicine Reminder – Alert-based app for scheduled med tracking
+
 
 👉 Check my repos for code!
 
@@ -33,16 +37,25 @@ Git · GitHub · Jira · VS Code
 ![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KPRAHUL1&show_icons=true&theme=radical)
 
 ---
-GitHub streak graph:
 ![GitHub Streak](https://streak-stats.demolab.com?user=KPRAHUL1&theme=radical)
+
+---
 
 Visitors counter:
 ![](https://komarev.com/ghpvc/?username=KPRAHUL1&color=green)
 
 ---
 
-### 🔗 Let's connect!
-[LinkedIn](https://linkedin.com/in/rahulk07) | [GitHub](https://github.com/KPRAHUL1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KPRAHUL1&layout=compact&theme=radical)
+
+---
+
+**Let’s Connect!**
+📧 Email: kprahul1143@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/rahulk07) | [GitHub](https://github.com/KPRAHUL1)
+[![Gmail](https://img.shields.io/badge/Gmail-kprahul1143@gmail.com-red?style=flat&logo=gmail)](mailto:kprahul1143@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/rahulk07)
+
 
 
 <!--
