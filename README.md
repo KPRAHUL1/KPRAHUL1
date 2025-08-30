@@ -42,14 +42,6 @@ GitHub · Jira
 
 ---
 
-## 📈 GitHub Stats
-
-<p >
-  <img src="https://streak-stats.demolab.com?user=KPRAHUL1&theme=radical" alt="Rahul's GitHub Streak" />
-</p>
-
----
-
 ## 👁️ Visitors Count
 
 <p align="center">
