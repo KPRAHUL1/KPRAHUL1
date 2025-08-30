@@ -41,7 +41,7 @@ GitHub · Jira
 👉 Explore my repos for source code!
 
 ---
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=KPRAHUL1&show_icons=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KPRAHUL1&theme=radical)
 
