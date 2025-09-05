@@ -20,7 +20,7 @@ React.js · Next.js · JavaScript · TailwindCSS · Redux
 Node.js · Express.js · Prisma ORM
 
 **Database:**  
-PostgreSQL · SQL • mongodb 
+PostgreSQL • mongodb 
 
 **Tools:**  
 GitHub · Jira 
