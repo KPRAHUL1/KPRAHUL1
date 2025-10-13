@@ -39,10 +39,9 @@ GitHub · Jira
 - **Medication Reminder App** – Alert-based system for daily meds
 
 - **Smart Canteen System** – Alert-based system for daily meds
-👉 Explore my repos for source code!
+   Explore my repos for source code!
 
 ---
-
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=KPRAHUL1&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
 
 <!-- <p align="center">
