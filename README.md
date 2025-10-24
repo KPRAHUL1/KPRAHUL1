@@ -14,7 +14,7 @@
 ## 🛠 Tech Stack
 
 **Frontend:**  
-React.js · Next.js · JavaScript · TailwindCSS · Redux
+React.js · Next.js · JavaScript · TailwindCSS
 
 **Backend:**  
 Node.js · Express.js · Prisma ORM
