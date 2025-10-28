@@ -23,7 +23,7 @@ Node.js · Express.js · Prisma ORM
 PostgreSQL • mongodb 
 
 **Tools:**  
-GitHub · Jira 
+GitHub · Jira . Git
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
