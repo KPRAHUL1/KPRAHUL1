@@ -36,7 +36,6 @@ GitHub · Jira . Git
 
 - **E-Commerce Web App** – Secure payments, product listings (React + Node.js)
 - **IoT Bus Tracker** – Live GPS tracking via IoT + map UI
-- **Medication Reminder App** – Alert-based system for daily meds
 
 - **Smart Canteen System** – Alert-based system for daily meds
    Explore my repos for source code!
