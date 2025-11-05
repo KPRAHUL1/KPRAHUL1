@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm KP Rahul
 
-🎯 **React.js | Node.js | PostgreSQL | Nextjs | npm**
+🎯 **React.js | Node.js | Software Development Engineer | PostgreSQL | Nextjs | npm**
 🚀 Passionate about building real-world web apps & dashboards  
 🌍 Based in India | Open to remote/full-time opportunities  
 📬 Reach me: [kprahul1143@gmail.com](mailto:kprahul1143@gmail.com)
