@@ -60,7 +60,6 @@ GitHub · Jira . Git
   <img src="https://komarev.com/ghpvc/?username=KPRAHUL1&color=green" alt="Profile Views" />
 </p>
 
-
 ---
 
 ## 🤝 Let’s Connect!
