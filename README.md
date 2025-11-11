@@ -43,13 +43,12 @@ GitHub · Jira . Git
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=KPRAHUL1&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
 
  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KPRAHUL1&show_icons=true&theme=blue-green&hide_border=false" alt="Herwin's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KPRAHUL1&layout=compact&theme=blue-green&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KPRAHUL1&show_icons=true&theme=white&hide_border=true" alt="KP RAHUL's GitHub stats" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KPRAHUL1&theme=blue-green&hide_border=false" alt="GitHub Streak" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KPRAHUL1&bg_color=0d1117&color=00e4ff&line=00e4ff&point=ffffff&area=true&hide_border=false" alt="GitHub Activity Graph" />
-</p>
+</p> -->
 </p> 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KPRAHUL1&layout=compact)
