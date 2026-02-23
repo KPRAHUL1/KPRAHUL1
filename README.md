@@ -67,6 +67,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KPRAHUL1&layout=compact"/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KPRAHUL1&show_icons=true&include_all_commits=true&count_private=true"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=KPRAHUL1&mode=weekly"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KPRAHUL1&mode=daily"/>
 </p>
 
 <p align="center">
