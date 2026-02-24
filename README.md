@@ -13,7 +13,7 @@
 </p>
 
 <h3 align="center">Software Development Engineer | Full Stack Developer</h3>
-<h4 align="center">React.js • Next.js • Node.js • PostgreSQL</h4>
+<h4 align="center">React.js • Next.js • Node.js • </h4>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=KPRAHUL1&color=green" alt="profile views"/>
