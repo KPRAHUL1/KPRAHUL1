@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<h3 align="center">Software Development Engineer | Full Stack Developer</h3>
+<h3 align="center">Software Development Engineer | Full Stack Developer</mfnfh3>
 <h4 align="center">React.js • Next.js • Node.js • Postgresql</h4>
 
 <p align="left">
