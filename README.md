@@ -1,75 +1,259 @@
-<h1 align="center">Hi, I'm KP Rahul</h1>
+<div align="center">
+
+# Hi 👋, I'm KP Rahul
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Software+Development+Engineer;Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Scalable+Web+Applications;Always+Learning+New+Technologies"/>
+
+<p>
+<a href="https://github.com/KPRAHUL1">
+<img src="https://img.shields.io/github/followers/KPRAHUL1?label=Followers&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/KPRAHUL1">
+<img src="https://img.shields.io/github/stars/KPRAHUL1?affiliations=OWNER&style=for-the-badge"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=KPRAHUL1&style=for-the-badge&color=blue"/>
+
+</p>
+
+<a href="https://www.linkedin.com/in/rahulk07">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:kprahul1143@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-kprahul1143@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/KPRAHUL1">
+<img src="https://img.shields.io/badge/GitHub-KPRAHUL1-black?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+# 💫 About Me
+
+I'm a **Software Development Engineer** passionate about building scalable and high-performance web applications.
+
+I enjoy designing backend architectures, developing modern frontends, and solving real-world engineering challenges.
+
+- 🔭 Currently building scalable Full Stack Applications
+- 🌱 Learning Microservices & System Design
+- 💬 Ask me about React, Next.js, Node.js
+- ⚡ Interested in Blockchain & Web3
+- 📱 React Native Enthusiast
+- 🎯 Goal: Build products used by millions
+
+---
+
+# 🚀 Tech Stack
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,html,css"/>
+
+</p>
+
+---
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb"/>
+
+</p>
+
+---
+
+## Blockchain
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=solidity"/>
+
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hardhat.svg" width="48"/>
+
+</p>
+
+---
+
+## Mobile
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+React Native
+
+</p>
+
+---
+
+## DevOps & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel,vscode"/>
+
+</p>
+
+---
+
+# 📌 Featured Projects
+
+## 🛒 Enterprise E-Commerce Platform
+
+- Next.js App Router
+- Prisma ORM
+- PostgreSQL
+- Razorpay Integration
+- Admin Dashboard
+- Product Variants
+- Coupons
+- GST Calculation
+- Order Tracking
+- Sanity CMS
+- CDN Integration
+
+---
+
+## 🔗 Blockchain Job Portal
+
+- Solidity
+- Hardhat
+- Smart Contracts
+- Wallet Authentication
+- USDT Staking
+- Decentralized Job Posting
+
+---
+
+## 🎨 Interactive 3D Experiences
+
+- Three.js
+- React Three Fiber
+- Interactive Product Visualizations
+- Real-time Rendering
+
+---
+
+## 📱 Mobile Applications
+
+- React Native
+- Authentication
+- REST APIs
+- Push Notifications
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KPRAHUL1&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KPRAHUL1&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=KPRAHUL1&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KPRAHUL1&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=KPRAHUL1&theme=flat&no-frame=true&margin-w=10"/>
+
+</div>
+
+---
+
+# 🌍 Current Focus
+
+```text
+🚀 Building Production-Ready Applications
+
+⚙️ Backend Architecture
+
+📦 Microservices
+
+🔐 Authentication & Security
+
+💳 Payment Gateway Integration
+
+☁️ Cloud Deployment
+
+🎨 Three.js Experiences
+
+📱 React Native Apps
+
+⛓ Blockchain Development
+```
+
+---
+
+# 📚 Currently Exploring
+
+- System Design
+- Kubernetes
+- Docker
+- CI/CD
+- AWS
+- Scalable Backend Architecture
+- Event-Driven Systems
+- Distributed Systems
+
+---
+
+# 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rahulk07">
-    <img src="https://img.shields.io/badge/LinkedIn-rahulk07-blue?style=flat&logo=linkedin">
-  </a>
-  <a href="mailto:kprahul1143@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kprahul1143%40gmail.com-red?style=flat&logo=gmail">
-  </a>
-  <a href="https://github.com/KPRAHUL1">
-    <img src="https://img.shields.io/badge/GitHub-KPRAHUL1-black?style=flat&logo=github">
-  </a>
+
+<a href="https://www.linkedin.com/in/rahulk07">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:kprahul1143@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/KPRAHUL1">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
-<h3 align="center">Software Development Engineer | Full Stack Developer</mfnfh3>
-<h4 align="center">React.js • Next.js • Node.js • Postgresql</h4>
+---
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=KPRAHUL1&color=green" alt="profile views"/>
-</p>
+<div align="center">
 
-<img width="45%" align="right" alt="GitHub Banner" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"/>
+### ⭐ "Code. Learn. Build. Repeat."
 
-<ul>
-  <li>Currently building scalable full-stack web applications</li>
-  <li>Focused on React, Next.js, and backend architecture</li>
-  <li>Strong interest in real-world problem solving</li>
-  <li>Open to remote and full-time opportunities</li>
-  <li>Believer in consistency through daily coding practice</li>
-</ul>
+Thanks for visiting!
 
-<h4>Programming Languages</h4>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60"/>
-</p>
+If you like my work, consider giving a ⭐ to my repositories.
 
-<h4>Frameworks, Tools, and Technologies</h4>
-<p display="flex" align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="60" height="60"/>
-</p>
-
-<h3>Projects</h3>
-<ul>
-  <li><b>E-Commerce Web Application</b> – Secure authentication, product management, payments</li>
-  <li><b>IoT Bus Tracker</b> – Live GPS tracking with real-time map updates</li>
-  <li><b>Smart Canteen System</b> – Digital ordering and management platform</li>
-</ul>
-
-<h3>Development Approach</h3>
-<ul>
-  <li>Clean, maintainable, and readable code</li>
-  <li>Strong fundamentals before abstractions</li>
-  <li>Daily commits for continuous improvement</li>
-</ul>
-
-<h3>GitHub Analytics</h3>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KPRAHUL1&layout=compact"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KPRAHUL1&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KPRAHUL1&mode=weekly"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Herwinstenil&mode=daily"/>
-</p>
-
-<p align="center">
-  From <a href="https://github.com/KPRAHUL1">KP Rahul</a>
-</p>
+</div>
