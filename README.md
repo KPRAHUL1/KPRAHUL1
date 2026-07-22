@@ -46,7 +46,7 @@ I enjoy designing backend architectures, developing modern frontends, and solvin
 - 📱 React Native Enthusiast
 - 🎯 Goal: Build products used by millions
 
----
+---.
 
 # 🚀 Tech Stack
 
