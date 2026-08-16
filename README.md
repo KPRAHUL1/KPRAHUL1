@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm KP Rahul
+# Hi There👋, I'm KP Rahul
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Software+Development+Engineer;Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Scalable+Web+Applications;Always+Learning+New+Technologies"/>
 
