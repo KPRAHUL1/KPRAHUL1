@@ -1,6 +1,6 @@
 # KP Rahul
 
-**Software Development Engineer** · Full Stack · Web3
+**Software Development Engineer** · Full Stack 
 
 I build scalable, high-performance web applications, from backend architecture to polished frontends. Currently focused on production-grade systems, microservices, and system design.
 
