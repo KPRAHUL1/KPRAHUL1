@@ -1,6 +1,6 @@
 # KP Rahul
 
-**Software Development Engineer** · Full Stack 
+**Software Development Engineer** · Full Stack .
 I build scalable, high-performance web applications, from backend architecture to polished frontends. Currently focused on production-grade systems, microservices, and system design.
 
 [LinkedIn](https://www.linkedin.com/in/rahulk07) · [Email](mailto:kprahul1143@gmail.com) · [GitHub](https://github.com/KPRAHUL1)
